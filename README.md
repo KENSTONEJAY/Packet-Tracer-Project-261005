@@ -1,6 +1,8 @@
 # Packet-Tracer-Project-261005
 #Configure A Wireless Router and Clients
 
+See project here : https://github.com/KENSTONEJAY/Packet-Tracer-Project-261005/blob/main/simple%20home%20network%20top%20(skillsForAll).png
+
 ## OVERVIEW 
 A Cisco Packet tracer exercise whereby I connected and configured a wireless router and client devices in a home network in order to achieve internet connectivity across the entire network
 
