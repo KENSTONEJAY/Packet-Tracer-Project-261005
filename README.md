@@ -1,5 +1,5 @@
 # Packet-Tracer-Project-261005
-#Configure A Wireless Router and Clients
+# Configure A Wireless Router and Clients
 
 See project here : https://github.com/KENSTONEJAY/Packet-Tracer-Project-261005/blob/main/simple%20home%20network%20top%20(skillsForAll).png
 
